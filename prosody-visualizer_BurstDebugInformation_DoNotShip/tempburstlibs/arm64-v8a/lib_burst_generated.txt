@@ -12,6 +12,7 @@ Library: D:\Code\Prosody-Visualizer\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib
 --assembly-defines=Meta.VoiceSDK.Mic.Common;
 --assembly-defines=Meta.VoiceSDK.Mic.Other;
 --assembly-defines=Meta.Wit.Composer;
+--assembly-defines=Meta.Wit.Dictation;
 --assembly-defines=Meta.WitAi.Conduit;
 --assembly-defines=Meta.WitAi;
 --assembly-defines=Meta.WitAi.Lib;
@@ -59,6 +60,7 @@ Library: D:\Code\Prosody-Visualizer\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib
 --assembly-defines=Unity.XR.OpenXR.Features.OculusQuestSupport;
 --assembly-defines=Unity.XR.OpenXR.Features.RuntimeDebugger;
 --assembly-defines=UnityEngine;
+--assembly-defines=VoiceSDK.Dictation.Runtime;
 --assembly-defines=VoiceSDK.Runtime;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Code\Prosody-Visualizer\Temp\Burst
@@ -141,6 +143,7 @@ Library: D:\Code\Prosody-Visualizer\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib
 --assembly-defines=Meta.VoiceSDK.Mic.Common;
 --assembly-defines=Meta.VoiceSDK.Mic.Other;
 --assembly-defines=Meta.Wit.Composer;
+--assembly-defines=Meta.Wit.Dictation;
 --assembly-defines=Meta.WitAi.Conduit;
 --assembly-defines=Meta.WitAi;
 --assembly-defines=Meta.WitAi.Lib;
@@ -188,6 +191,7 @@ Library: D:\Code\Prosody-Visualizer\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib
 --assembly-defines=Unity.XR.OpenXR.Features.OculusQuestSupport;
 --assembly-defines=Unity.XR.OpenXR.Features.RuntimeDebugger;
 --assembly-defines=UnityEngine;
+--assembly-defines=VoiceSDK.Dictation.Runtime;
 --assembly-defines=VoiceSDK.Runtime;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Code\Prosody-Visualizer\Temp\Burst
